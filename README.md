@@ -1,0 +1,1 @@
+A full-stack web application that detects guitar chords from audio files using audio signal processing and machine learning. Simply upload an MP3 or WAV file, and the app will analyze the audio to extract and display the chords played throughout the track with precise timestamps. Built with React, Flask, and Librosa.
